@@ -1,0 +1,10 @@
+
+{
+  "name": "مسابقة التميز في الرياضيات",
+  "short_name": "تميز",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "description": "تطبيق لمتابعة نتائج طلاب الصف السادس"
+}
